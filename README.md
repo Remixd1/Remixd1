@@ -22,9 +22,9 @@ part-time game designer, and horror indie game developer.
 **Tools:** Git, Firebase, VS Code, Blender, Godot, Unity, Roblox Studio
 
 ## How to reach me
-![My Linkedin!](www.linkedin.com/in/remus-yip320)
+[My Linkedin!](www.linkedin.com/in/remus-yip320)
 
 ## Stats
 
-![Remus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Remixd1&show_icons=true&theme=dark&hide_border=true)
+[Remus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Remixd1&show_icons=true&theme=dark&hide_border=true)
 
