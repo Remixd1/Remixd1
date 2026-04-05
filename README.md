@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi! I'm Remus 👋
 
-<!--
-**Remixd1/Remixd1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year Computer Science student at the University of Waterloo, 
+part-time game designer, and horror indie game developer.
 
-Here are some ideas to get you started:
+## What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌲 **Mythwood Forest** — a solo PSX-style first-person horror game in Godot 4
+- 🌙 **Ummahwell** — a halal-conscious calorie tracker (1st place, MIST Toronto 2025)
+
+## Experience
+
+- 🎮 **Senior Games System Designer** at Cryptent Studios (2023–Present)
+  — Roblox map design, 3D modeling, client work, mentoring junior designers
+
+## Tech Stack
+
+**Languages:** Java, Python, C, C#, JavaScript, GDScript, HTML/CSS
+
+**Frameworks & Libraries:** React, Node.js, ZXing
+
+**Tools:** Git, Firebase, VS Code, Blender, Godot, Unity, Roblox Studio
+
+## How to reach me
+![My Linkedin:](www.linkedin.com/in/remus-yip320)
+
+## Stats
+
+![Remus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Remixd1&show_icons=true&theme=dark&hide_border=true)
+
