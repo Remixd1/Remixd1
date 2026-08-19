@@ -12,7 +12,8 @@ part-time game designer, and horror indie game developer.
 - 🌙 **Ummahwell** — a halal-conscious calorie tracker (1st place, MIST Toronto 2025)
 
 ## Experience
-
+- 🍞 **Cloud Engineer** at Redstone Food Group Ltd. (2026 May - August) Internship
+- Cloud migration, full stack development, data validation, and building an ETL pipeline
 - 🎮 **Senior Games System Designer** at Cryptent Studios (2023–Present)
   — Roblox map design, 3D modeling, client work, mentoring junior designers
 
