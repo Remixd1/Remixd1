@@ -6,9 +6,10 @@ part-time game designer, and horror indie game developer.
 ## What I'm Working On
 
 - 🌲 **Mythwood Forest** — a solo PSX-style first-person horror game in Godot 4
-- 🛍️ **DormDash** - A community marketplace for students to sell their items within their dorm communities (CentennialHacks)
+- 🛍️ **DormDash** - A community marketplace for students to sell their items within their dorm communities (CentennialHacks 2026)
 
 ## Finished Projects
+- 👁️ **Prophecy** - Predicts code conflicts before they happen by scoring every change in flight, across teammates and AI coding agents. ( HackMIT 2026)
 - 🌙 **Ummahwell** — a halal-conscious calorie tracker (1st place, MIST Toronto 2025)
 
 ## Experience
@@ -19,7 +20,7 @@ part-time game designer, and horror indie game developer.
 
 ## Tech Stack
 
-**Languages:** Java, Python, C, JavaScript, GDScript, HTML/CSS
+**Languages:** Java, Python, JavaScript, GDScript, HTML/CSS, SQL
 
 **Frameworks & Libraries:** React, Node.js, ZXing, Tailwind
 
